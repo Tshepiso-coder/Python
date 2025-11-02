@@ -2,7 +2,7 @@ print(f"addition: 3 + 5 = {3 + 5}")
 print(f"subtraction: 13 - 5 = {13 - 5}")
 print(f"multiplication: 4 * 2 = {4 * 2}")
 print(f"division: 24 / 3 = {24 / 3}")
-# print(f"Modlus: 15/7 = {15% 7}")
+
 
 # PRINT FAVORITE NUMBER
 fav = 26
