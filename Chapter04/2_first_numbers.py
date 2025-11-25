@@ -19,6 +19,7 @@ for value in range(1, 11):
     square = value ** 2
     squares.append(square)
 print(squares)
+
 #squares = list(value ** 2 for value in range(1,11))
 squares = list(value ** 2 for value in range(1,11))
 print(f"Squares: {squares}")
@@ -39,5 +40,6 @@ print(f"Sum = {sum(digits)}")
 
 print("\n")
 
-squares = [value**2 for value in range(1, 11)]
+# Squares = list(value ** 2 for value in range(1, 11))
+squares = [value **2 for value in range(1, 11)]
 print(squares)

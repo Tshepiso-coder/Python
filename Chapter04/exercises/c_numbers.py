@@ -17,7 +17,7 @@ threes = list(value for value in range(3,31,3))
 for value in threes:
     print(value)
 
-cubes = list(value **3 for value in range(1,11))
+cubes = list(value ** 3 for value in range(1,11))
 
 for value in cubes:
     print(value)   
