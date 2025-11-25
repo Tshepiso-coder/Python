@@ -15,4 +15,4 @@ def greet_user(username):
     """Display a simple greeting."""
     print(f"Hello, {username.title()}!")
 
-greet_user('VUSI')
+greet_user('TSHEPISO')
