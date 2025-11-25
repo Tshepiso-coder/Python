@@ -1,5 +1,5 @@
 
-# #SIMPLE IF STATEMENT EXAMPLE
+#SIMPLE IF STATEMENT EXAMPLE
 
 cars = ['audi', 'bmw', 'subaru', 'toyota']
 
